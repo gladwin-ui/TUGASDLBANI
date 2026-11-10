@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../PlatformIO/Projects/ai anjay"
+		},
+		{
+			"name": "BaniPID",
+			"path": "../../PlatformIO/Projects/BaniPID"
+		},
+		{
+			"name": "Tugas PID Bani",
+			"path": "../../PlatformIO/Projects/Tugas PID Bani"
+		}
+	],
+	"settings": {}
+}
